@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+dist/
+data/*
+!data/
+!data/.gitkeep
+node_modules/
